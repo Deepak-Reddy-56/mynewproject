@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    cout<<"Hello";
     cout<<" THIS is a trial program just to use github";
     return 0;
 }
